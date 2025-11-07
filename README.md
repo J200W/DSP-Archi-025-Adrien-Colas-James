@@ -7,3 +7,5 @@ Sur cette branche les modifications apporte ont ete:
 
 
 Ajout initial du SQL pour fleetControl
+
+Ajout du script final avec les évolutions demandées dans la phase 3
